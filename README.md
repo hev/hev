@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
+I work for VMWare on projects related to Observability for Kubernetes and Cloudfoundry. I am also
+interested in Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
+
+- 🔭 I’m currently working on [cf-for-k8s](https://github.com/cloudfoundry/cf-for-k8s)
+- 👯 I’m looking to collaborate on Observability ideas for App Developers
+- 📫 How to reach me: File an issue? 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to ride bikes (Road, MTB and Snow)
+
 <!--
 **hev/hev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
