@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
-I work for VMWare on projects related to Observability for Kubernetes and Cloudfoundry. I am also
-interested in Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
+I work for Anchore on #devsecops tools. I am 
+interested in, Observability, Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
 
 - 🔭 I’m currently working on Anchore
 - 👯 I’m looking to collaborate on Dev Sec Ops
