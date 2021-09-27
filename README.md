@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
-I work for Anchore on #devsecops tools. I am 
+I work for Serverless on #observability tools. I am 
 interested in, Observability, Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
 
-- 🔭 I’m currently working on Anchore
+- 🔭 I’m currently working on Serverless
 - 👯 I’m looking to collaborate on Dev Sec Ops
 - 📫 How to reach me: File an issue? 
 - 😄 Pronouns: he/him
