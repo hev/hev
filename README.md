@@ -4,8 +4,7 @@ My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev wh
 I work for Serverless on #observability tools. I am 
 interested in, Observability, Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
 
-- 🔭 I’m currently working on Serverless
-- 👯 I’m looking to collaborate on Dev Sec Ops
+- 🔭 I’m currently working on Aerospike DB Observability & Management tools. 
 - 📫 How to reach me: File an issue? 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to ride bikes (Road, MTB and Snow)
