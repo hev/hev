@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
-I work for Serverless on #observability tools. I am 
+I work for on observability and database tooling for Aerospike. 
 interested in, Observability, Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
 
 - 🔭 I’m currently working on Aerospike DB Observability & Management tools. 
