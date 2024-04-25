@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
-I work for on observability and database tooling for Aerospike. 
-interested in, Observability, Secure Software Supply chains, Developer UX/GitOps, and COVID data science. 
+I work for on Aerospike's vector database (codename proximus)
+interested in, AI/MIL, Vectors, and Timeseries data.
 
-- 🔭 I’m currently working on Aerospike DB Observability & Management tools. 
+- 🔭 I’m currently working on Aerospike Vector Search
 - 📫 How to reach me: File an issue? 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to ride bikes (Road, MTB and Snow)
