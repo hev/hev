@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 My name is Adam, but on the Internet I usually go by @hev (or sometimes @aHev when that's taken).
-I work for on Aerospike's vector database (codename proximus)
-interested in, AI/MIL, Vectors, and Timeseries data.
+Currently I am working on [vibe check](https://github.com/hev/vibecheck) an intuitive YAML based agent DSL. 
 
-- 🔭 I’m currently working on Aerospike Vector Search
-- 📫 How to reach me: File an issue? 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to ride bikes (Road, MTB and Snow)
+- ⭐️ Give [vibe check](https://github.com/hev/vibecheck) a star 
+- 💬 Ask me about evals and observability
+- 🎃 Signup for the [halloween pop up]!
+
 
 <!--
 **hev/hev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
