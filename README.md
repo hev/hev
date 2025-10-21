@@ -5,7 +5,7 @@ Currently I am working on [vibe check](https://github.com/hev/vibecheck) an intu
 
 - ⭐️ Give [vibe check](https://github.com/hev/vibecheck) a star 
 - 💬 Ask me about evals and observability
-- 🎃 Signup for the [halloween pop up]!
+- 🎃 Signup for the [halloween pop up](https://vibescheck.io/)!
 
 
 <!--
